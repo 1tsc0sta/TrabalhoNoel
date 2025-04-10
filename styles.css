@@ -124,3 +124,18 @@ img {
 ul {
   margin-right: 30px;
 }
+
+.parte3 {
+  color: white;
+  float: left;
+  text-align: left;
+  width: 300px;
+}
+
+#parte4 {
+  color: white;
+  float: right;
+  text-align: right;
+  width: 300px;
+}
+
